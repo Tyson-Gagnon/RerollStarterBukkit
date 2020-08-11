@@ -1,0 +1,8 @@
+name: BukkitRerollStarter
+version: 1.0
+main: me.itsy.reroll.bukkit.bukkitrerollstarter.BukkitRerollStarter
+commands:
+  reroll:
+    description: Reroll commandstop
+    permission: reroll.main
+
